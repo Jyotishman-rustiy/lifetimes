@@ -1,7 +1,3 @@
-Perfect 👏 — since your crate implements a **generic, customizable string splitting iterator in Rust**, here’s a clean and professional `README.md` you can put in your repo root:
-
----
-
 ````markdown
 # StrSplit — Custom String Split Iterator in Rust
 
